@@ -1,0 +1,85 @@
+# Bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.log
+venv/
+
+
+# Virtual environments
+venv/
+*.venv
+ENV/
+env/
+
+# IDE-specific settings (e.g., for VS Code and PyCharm)
+.vscode/
+.idea/
+
+# Log and database files
+*.log
+*.sqlite
+
+# OS specific
+.DS_Store  # For macOS
+Thumbs.db  # For Windows
+desktop.ini  # For Windows
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+# Usually, you don't want to distribute the build artifacts on VCS.
+# Uncomment the following lines to exclude from versioning the PyInstaller
+# build and dist directories.
+# build/
+# dist/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# dotenv environment variables file
+.env
+.env.*
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# pytest
+pytest_cache/
+
+# Local settings file
+local_settings.py

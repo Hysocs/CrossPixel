@@ -42,7 +42,7 @@ If you have any feedback or need support, please [Join my discord](https://disco
 
 
 
-<sub>
+<small>
 
 
 
@@ -51,7 +51,7 @@ I am not responsible for any bans resulting from the use of this product. It's b
 Additionally, I cannot be held accountable if you face consequences for using this overlay in games that prohibit additional crosshairs, especially if you publicly display it on streams or in clips.  
 Please exercise discretion and understand the terms of service for each game you play.
 
-</sub>
+</small>
 
 
 

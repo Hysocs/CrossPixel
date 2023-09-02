@@ -39,3 +39,10 @@ CrossPixel ensures your crosshair is perfectly centered, giving you the edge you
 ## Feedback & Support
 If you have any feedback or need support, please [Join my discord](https://discord.gg/xPKArQGK7G).
 
+<sub>
+**Disclaimer**:
+
+I am not responsible for any bans resulting from the use of this product. It's beyond my control if or when games change their terms of service or target external crosshair overlay programs. Additionally, I cannot be held accountable if you face consequences for using this overlay in games that prohibit additional crosshairs, especially if you publicly display it on streams or in clips. Please exercise discretion and understand the terms of service for each game you play.
+</sub>
+
+

@@ -25,6 +25,8 @@ CrossPixel ensures your crosshair is perfectly centered, giving you the edge you
 ## Screenshots
 
 ![Screenshot1](https://media.discordapp.net/attachments/1143176304766767174/1143179165412110356/image.png?width=782&height=473)
+![Screenshot2](https://media.discordapp.net/attachments/1143176304766767174/1143179166376800387/image_3-fotor-2023082193224.png?width=782&height=473)
+![Screenshot3](https://cdn.discordapp.com/attachments/1143490427585052763/1146274081734414436/90c194ccf6e234c087986d7f29c56eeb.mp4)
 
 ## Feedback & Support
 If you have any feedback or need support, please [Join my discord](https://discord.gg/xPKArQGK7G).

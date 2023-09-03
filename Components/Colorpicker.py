@@ -1,3 +1,5 @@
+# I found this code on Reddit; it was for a color circle. I have since modified it to be a square and refactored a portion of it.
+
 from PyQt5.QtWidgets import QWidget, QSlider, QHBoxLayout, QSizePolicy, QVBoxLayout
 from PyQt5.QtCore import Qt, QRect, QPointF, QLineF, pyqtSignal
 from PyQt5.QtGui import QColor, QPainter, QPaintEvent, QResizeEvent, QConicalGradient, QRadialGradient, QMouseEvent, QLinearGradient

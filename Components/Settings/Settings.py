@@ -172,6 +172,7 @@ class SettingsDialog(QDialog, EventHandlersMixin):
         keybinds.update_keybinds(self.get_keybinds())
         self.accept()
 
+    #Small error bypass may need to be looked out further
     def load_keybinds(self, keybinds):
         self.undoKeybind.setKeySequence(keybinds.get("undo", ""))
         self.redoKeybind.setKeySequence(keybinds.get("redo", ""))

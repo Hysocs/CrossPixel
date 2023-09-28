@@ -8,9 +8,9 @@ DEFAULT_KEYBINDS = {
     "hide_crosshair": "Ctrl+H",
     "self_destruct": "Ctrl+D",
     "offset_keybind": "Ctrl+O",
-    "offset_x": 0,  # Default value for offset x
-    "offset_y": 0,  # Default value for offset y
-    "crosshair_disable_mode": "Disabled"  # Default value for the dropdown
+    "offset_x": 0,
+    "offset_y": 0,
+    "crosshair_disable_mode": 0  # Default value for the dropdown, 0 corresponds to "Disabled"
 }
 
 # Define path to the CrossPixel directory in the AppData\Local directory

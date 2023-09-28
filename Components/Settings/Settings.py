@@ -178,9 +178,11 @@ class SettingsDialog(QDialog, EventHandlersMixin):
         self.hideCrosshairKeybind.setKeySequence(keybinds.get("hide_crosshair", ""))
         self.selfDestructKeybind.setKeySequence(keybinds.get("self_destruct", ""))
         self.offsetKeybind.setKeySequence(keybinds.get("offset_keybind", ""))
-        self.crosshairDisableModeDropdown.setCurrentIndex(keybinds.get("crosshair_disable_mode", 0))
 
-        
+        crosshair_disable_mode = keybinds.get("crosshair_disable_mode", 0)
+        if isinstance(crosshair_disable_mode, int):
+            self.crosshairDisableModeDropdown.setCurrentIndex(crosshair_disable_mode)
+            
         self.offsetXSlider.setValue(keybinds.get("offset_x", 0))
         self.offsetYSlider.setValue(keybinds.get("offset_y", 0))
 

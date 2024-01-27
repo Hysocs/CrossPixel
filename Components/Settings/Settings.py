@@ -76,8 +76,6 @@ class SettingsDialog(QDialog, EventHandlersMixin):
     
     def closeEvent(self, event):
         self.hide()  # Hide the settings dialog instead of closing it
-        keybinds = Keybinds()
-        keybinds.update_keybinds(self.get_keybinds())
         self.accept()
         event.ignore()  # Ignore the close event to prevent the application from closing
 

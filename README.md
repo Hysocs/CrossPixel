@@ -30,7 +30,7 @@ CrossPixel ensures your crosshair is perfectly centered, giving you the edge you
   </tr>
 </table>
 
-### Latest Update
+### In Game (Old build)
 
 ![Screenshot3](https://i.imgur.com/BwSWMzK.png)
 
